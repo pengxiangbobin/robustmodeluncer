@@ -1,4 +1,4 @@
-#A quick guide to using the matlab code 
+A quick guide to using the matlab code 
 
 = Introduction =
 
@@ -18,4 +18,6 @@ Secondly, execution the codes in Matlab
 
 2. The Kriging model used is created with a Matlab Kriging Toolbox"DACE" which can be downloaded in http://www2.compute.dtu.dk/~hbni/dace/
 
-3. Welcome to discuss about the robust design 
+3. Thanks for the authors of the paper and DACE Toolbox
+
+4. Welcome to discuss about the robust design 
